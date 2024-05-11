@@ -1,0 +1,14 @@
+/Users/laraxavier/Helloworldfromcli/bin/Debug/net8.0/Helloworldfromcli
+/Users/laraxavier/Helloworldfromcli/bin/Debug/net8.0/Helloworldfromcli.deps.json
+/Users/laraxavier/Helloworldfromcli/bin/Debug/net8.0/Helloworldfromcli.runtimeconfig.json
+/Users/laraxavier/Helloworldfromcli/bin/Debug/net8.0/Helloworldfromcli.dll
+/Users/laraxavier/Helloworldfromcli/bin/Debug/net8.0/Helloworldfromcli.pdb
+/Users/laraxavier/Helloworldfromcli/obj/Debug/net8.0/Helloworldfromcli.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laraxavier/Helloworldfromcli/obj/Debug/net8.0/Helloworldfromcli.AssemblyInfoInputs.cache
+/Users/laraxavier/Helloworldfromcli/obj/Debug/net8.0/Helloworldfromcli.AssemblyInfo.cs
+/Users/laraxavier/Helloworldfromcli/obj/Debug/net8.0/Helloworldfromcli.csproj.CoreCompileInputs.cache
+/Users/laraxavier/Helloworldfromcli/obj/Debug/net8.0/Helloworldfromcli.dll
+/Users/laraxavier/Helloworldfromcli/obj/Debug/net8.0/refint/Helloworldfromcli.dll
+/Users/laraxavier/Helloworldfromcli/obj/Debug/net8.0/Helloworldfromcli.pdb
+/Users/laraxavier/Helloworldfromcli/obj/Debug/net8.0/Helloworldfromcli.genruntimeconfig.cache
+/Users/laraxavier/Helloworldfromcli/obj/Debug/net8.0/ref/Helloworldfromcli.dll
